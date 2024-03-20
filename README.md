@@ -1,4 +1,32 @@
-# Getting Started with Create React App
+# Contact app using firebase and firestore
+## Hosted Link:- https://firebase-contact-app-olive.vercel.app/
+
+- This is a simple contact management application built using ReactJS and Firebase.
+- This application utilizes ReactJS for the frontend.
+- Firestore is also used for storing data of users which will act as backend here.
+- It allows users to manage their contacts efficiently. 
+- Users can add new contacts, search for existing ones, and view contact details.
+### Features
+- View a list of contacts
+- Add new contacts
+- Search for contacts by name
+- Responsive design for various screen sizes
+- User-friendly interface
+
+ ### Usage
+- Set up Firebase:
+- Create a Firebase project on the Firebase Console.
+- Obtain your Firebase project configuration.
+- Replace the Firebase configuration in the config/firebase.js file with your own configuration.
+- Set up Firestore in your Firebase project and create a collection named "contacts".
+- 
+### Dependencies
+- React
+- Firebase
+- react-icons
+- react-toastify
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
